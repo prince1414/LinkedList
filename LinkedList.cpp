@@ -1,6 +1,5 @@
 //linked list
 #include <iostream>
-#include <fstream>
 using namespace std;
 
 class LinkedList
@@ -80,11 +79,7 @@ class LinkedList
 
 int main() 
 {
+  LinkedList* arr = new LinkedList();
 
-  
-  LinkedList *ob = new LinkedList();
-
-  int n;
-  
   return 0;
 }
