@@ -79,7 +79,8 @@ class LinkedList
 
 int main() 
 {
-  LinkedList* arr = new LinkedList();
-
+  LinkedList* arr = new LinkedList(); // Sample linked list creation
+  //use the object functions to further utilize the data
+  
   return 0;
 }
